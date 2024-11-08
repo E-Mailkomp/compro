@@ -17,8 +17,9 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Free and Open-Source",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Innovation",
+    paragraph:
+      "Mendorong kreativitas dan pemikiran baru dalam pengembangan web.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -38,8 +39,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Modern Design",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Collaboration",
+    paragraph: "Bekerja bersama sebagai tim untuk mencapai hasil terbaik.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -91,8 +92,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "SaaS Starter Kit",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Growth",
+    paragraph: "Mengutamakan pembelajaran berkelanjutan dan peningkatan diri.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -124,8 +125,9 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "All Essential Integrations",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Integrity",
+    paragraph:
+      "Menjunjung tinggi profesionalisme dan etika dalam setiap kegiatan.",
     btn: "Learn More",
     btnLink: "/#",
   },
