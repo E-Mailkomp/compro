@@ -8,7 +8,7 @@ const Features = () => {
       <div className="container">
         <SectionTitle
           title="Our Values"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="There sss are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
         />
 
         <div className="-mx-4 mt-12 flex flex-wrap lg:mt-20">
