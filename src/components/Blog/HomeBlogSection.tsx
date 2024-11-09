@@ -7,14 +7,21 @@ const HomeBlogSection = ({ posts }: any) => {
       <div className="container mx-auto">
         <div className="mb-[60px]">
           <SectionTitle
-            subtitle="Our Blogs"
-            title="Our Recent News"
+            subtitle="Our Value"
+            title="Our Focus Areas"
             paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
             width="640px"
             center
           />
         </div>
 
+        <div className="-mx-4 flex flex-wrap">
+          {posts.slice(0, 3).map((blog: any, i: number) => (
+            <div key={i} className="w-full px-4 md:w-1/2 lg:w-1/3">
+              <SingleBlog blog={blog} />
+            </div>
+          ))}
+        </div>
         <div className="-mx-4 flex flex-wrap">
           {posts.slice(0, 3).map((blog: any, i: number) => (
             <div key={i} className="w-full px-4 md:w-1/2 lg:w-1/3">

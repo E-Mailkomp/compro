@@ -15,9 +15,14 @@ const Visi = () => {
                   Our Vision
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                  Menjadi komunitas unggul yang membekali mahasiswa Teknik
-                  Informatika D3 UNS dengan keterampilan development yang
-                  relevan dengan dunia industri.
+                  Visi &lt;CODE/&gt; CREW adalah membentuk komunitas belajar
+                  yang solid, kolaboratif, dan inspiratif bagi mahasiswa D3
+                  Teknik Informatika UNS, di mana setiap anggotanya dapat
+                  mengembangkan keterampilan, pengetahuan, dan jaringan di
+                  bidang teknologi. Komunitas ini bertujuan mempersiapkan
+                  mahasiswa agar lebih siap menghadapi dunia kerja yang dinamis,
+                  mampu mengikuti perkembangan teknologi terbaru, serta menjadi
+                  individu yang inovatif dan kompeten di industri teknologi.
                 </p>
 
                 <a
@@ -34,9 +39,14 @@ const Visi = () => {
                   Our Mission
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                  Empower Future Developers: Memberdayakan mahasiswa untuk
-                  menjadi pengembang web yang kompeten dan siap menghadapi
-                  tantangan di dunia kerja.
+                  Misi &lt;CODE/&gt; CREW adalah menjadi wadah bagi mahasiswa D3
+                  Teknik Informatika UNS untuk mengembangkan keterampilan ,
+                  memperkaya pengalaman , dan memperluas relasi di bidang
+                  teknologi. Melalui kegiatan belajar bersama, workshop, diskusi
+                  , serta proyek kolaboratif, komunitas ini mendukung anggotanya
+                  dalam menguasai keterampilan coding dan teknologi terbaru,
+                  sekaligus meningkatkan soft skill seperti komunikasi dan kerja
+                  tim yang penting untuk dunia kerja.
                 </p>
 
                 <a

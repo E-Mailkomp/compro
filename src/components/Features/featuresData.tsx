@@ -19,7 +19,7 @@ const featuresData: Feature[] = [
     ),
     title: "Innovation",
     paragraph:
-      "Mendorong kreativitas dan pemikiran baru dalam pengembangan web.",
+      "Mendorong kreativitas dan pemikiran baru dalam pengembangan teknologi.",
     btn: "Learn More",
     btnLink: "/#",
   },

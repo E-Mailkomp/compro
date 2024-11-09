@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 const SingleBlog = ({ blog }: { blog: Blog }) => {
-  const { title, coverImage, excerpt, date, slug } = blog;
+  const { title, coverImage, excerpt, slug } = blog;
 
   return (
     <div className="wow fadeInUp group mb-10" data-wow-delay=".1s">
@@ -20,9 +20,6 @@ const SingleBlog = ({ blog }: { blog: Blog }) => {
         </Link>
       </div>
       <div>
-        <span className="mb-5 inline-block rounded bg-primary px-4 py-1 text-center text-xs font-semibold leading-loose text-white">
-          {format(new Date(date), "dd MMM yyyy")}
-        </span>
         <h3>
           <Link
             href={`/blogs/${slug}`}

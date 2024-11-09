@@ -4,7 +4,7 @@ const About = () => {
   return (
     <section
       id="about"
-      className="bg-gray-1 pb-8 pt-20 dark:bg-dark-2 lg:pb-[70px] lg:pt-[120px]"
+      className="min-h-screen bg-gray-1 pb-8 pt-20 dark:bg-dark-2 lg:pb-[70px] lg:pt-[120px]"
     >
       <div className="container">
         <div className="wow fadeInUp" data-wow-delay=".2s">
@@ -15,11 +15,11 @@ const About = () => {
                   Community & Study Club Informatics Engineering
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                  CODE CREW adalah komunitas dan study club yang berfokus pada
-                  pengembangan web untuk mahasiswa D3 Teknik Informatika di
-                  Universitas Sebelas Maret (UNS). Komunitas ini diciptakan
-                  sebagai tempat untuk belajar, berbagi pengetahuan, dan
-                  mengembangkan keterampilan di bidang teknologi, khususnya
+                  &lt;CODE/&gt; CREW adalah komunitas dan study club yang
+                  berfokus pada pengembangan web untuk mahasiswa D3 Teknik
+                  Informatika di Universitas Sebelas Maret (UNS). Komunitas ini
+                  diciptakan sebagai tempat untuk belajar, berbagi pengetahuan,
+                  dan mengembangkan keterampilan di bidang teknologi, khususnya
                   pengembangan aplikasi web.
                   <br /> <br />
                   Kami bertujuan untuk mendukung mahasiswa dalam menguasai

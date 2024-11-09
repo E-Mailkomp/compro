@@ -3,6 +3,7 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import Visi from "@/components/Visi";
 import Features from "@/components/Features";
 import Team from "@/components/Team";
+import CallToAction from "@/components/CallToAction";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -18,6 +19,7 @@ const AboutPage = () => {
       <Visi />
       <Features />
       <Team />
+      <CallToAction />
     </main>
   );
 };
