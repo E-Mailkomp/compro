@@ -40,7 +40,7 @@ export default function RootLayout({
               enableSystem={false}
               defaultTheme="light"
             >
-              <ToasterContext />
+              {/* <ToasterContext /> */}
               <Header />
               {children}
               <Footer />
